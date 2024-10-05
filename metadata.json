@@ -1,0 +1,12 @@
+{
+    "name": "BTGENT",
+    "symbol": "BTGENT",
+    "description": "BTGENT",
+    "image": "https://raw.githubusercontent.com/llonzuf/test/refs/heads/main/full.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "dont buy test"
+      }
+    ]
+  }
